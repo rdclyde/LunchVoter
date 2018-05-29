@@ -1,0 +1,1 @@
+﻿{"endtime":"%endtime%","voters":[{"name":"Bob","emailAddress":"bob@gmail.com"},{"name":"Jim","emailAddress":"jim@gmail.com"}]}

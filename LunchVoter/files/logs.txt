@@ -1,0 +1,2 @@
+﻿20180527.121817, BallotCreate, The remote server returned an error: (404) Not Found.
+20180527.122229, BallotCreate, The remote server returned an error: (404) Not Found.
